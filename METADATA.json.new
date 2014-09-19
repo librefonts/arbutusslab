@@ -1,0 +1,42 @@
+{
+  "name": "Arbutus Slab",
+  "designer": "Karolina Lach",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Serif",
+  "size": 39271,
+  "fonts": [
+    {
+      "name": "Arbutus Slab",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ArbutusSlab-Regular.ttf.ttf",
+      "postScriptName": "ArbutusSlab",
+      "fullName": "ArbutusSlab",
+      "copyright": "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved."
+    },
+    {
+      "name": "Arbutus Slab",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ArbutusSlab-Regular.ttf",
+      "postScriptName": "ArbutusSlab-Regular",
+      "fullName": "Arbutus Slab",
+      "copyright": "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved."
+    },
+    {
+      "name": "Arbutus Slab",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ArbutusSlab-Regular.otf.ttf",
+      "postScriptName": "ArbutusSlab",
+      "fullName": "ArbutusSlab",
+      "copyright": "Copyright (c) 2012 by Sorkin Type Co.. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-09-18"
+}

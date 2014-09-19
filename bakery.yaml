@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [ArbutusSlab-Regular.ttf.ttx, src/ArbutusSlab-Regular.otf.ttx, src/ArbutusSlab-Regular.ttf.sfd,
+  src/ArbutusSlab-Regular.otf.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
